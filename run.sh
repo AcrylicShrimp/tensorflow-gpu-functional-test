@@ -27,4 +27,5 @@ python3 main.py
 
 echo 'Done.'
 
+deactivate
 rm -rf env
