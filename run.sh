@@ -15,7 +15,7 @@ echo 'Setting up virtual environment...'
 python3 -m venv env
 source env/bin/activate
 
-python3 -m pip install tensorflow-gpu
+python3 -m pip install numpy tensorflow-gpu
 
 echo '##############################################################'
 echo '##############################################################'
